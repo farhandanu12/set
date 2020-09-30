@@ -1,12 +1,16 @@
 <?php
 
-//ikan hiyuu mamam tomat
-//error? bodomatttttt
+//ikan hiu makan tomat, goblok
+//error? bodomatttttt, yg penting dah ada set set nya
+//yakali jalan terus
+//belilah odading mang oleh
+//rasanya seperti anda menjadi iron man
+//recode by farhhandanu12
 
-	echo "Bot Auto Claim Shopping89\n";
-        echo "Nomor : ";
+	echo "Bot Auto Claim Shopping89 katanya\n";
+        echo "Nomor ente buruan masukin sini cok : ";
         $nohp = trim(fgets(STDIN));
-	echo "Password : ";
+	echo "Passwordnya gan masukin cepetan njing : ";
 	$pwd = trim(fgets(STDIN));
 
 		$masuk = login($nohp, $pwd);
